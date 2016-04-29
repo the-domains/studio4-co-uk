@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-29T14:40:28.291Z'
-dateModified: '2016-04-29T14:39:20.700Z'
+datePublished: '2016-04-29T14:42:10.055Z'
+dateModified: '2016-04-29T14:40:35.972Z'
 title: 'WE LOVE DESIGN!'
 author: []
 authors: []
