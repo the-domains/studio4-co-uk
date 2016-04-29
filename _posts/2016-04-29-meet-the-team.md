@@ -1,14 +1,16 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
 inLanguage: null
 keywords: []
 description: MEET THE TEAM
-datePublished: '2016-04-29T14:48:11.210Z'
-dateModified: '2016-04-29T14:48:05.968Z'
+datePublished: '2016-04-29T14:51:08.445Z'
+dateModified: '2016-04-29T14:50:57.368Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-29-meet-the-team.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,10 +18,7 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-29-meet-the-team.md
-published: true
-url: meet-the-team/index.html
-_type: Article
+_type: Blurb
 
 ---
 MEET THE TEAM
