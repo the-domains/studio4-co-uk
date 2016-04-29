@@ -1,6 +1,6 @@
 name: studio4.co.uk
 favicon: null
-layout_spectrum: 0.4816
+layout_spectrum: 0
 typography_spectrum: 0.363303629681468
 title: Studio4
 cta:
@@ -22,7 +22,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.25444004917517304
+  brandStrength: 0.4375
   lightness: 0.383577115368098
   saturation: 0.9351800840813667
   rhythmicContrast: 0.13778508664108813
